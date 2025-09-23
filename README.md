@@ -1,4 +1,4 @@
-# SQL Prep
+# SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
 ## Completed Questions: `20`
