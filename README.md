@@ -1,7 +1,7 @@
 # SQL Prep
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `13`
+## Completed Questions: `14`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9915.sql)
@@ -17,3 +17,4 @@ This repository contains my solutions to questions attempted on StrataScratch to
 |2090|[First Day Retention Rate](https://platform.stratascratch.com/coding/2090-first-day-retention-rate?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2090.sql)
 |2111|[Sales Growth per Territory](https://platform.stratascratch.com/coding/2111-sales-growth-per-territory?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2111.sql)
 |10304|[Risky Projects](https://platform.stratascratch.com/coding/10304-risky-projects?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10304.sql)
+|9726|[Classify Business Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9726.sql)
