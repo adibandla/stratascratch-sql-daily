@@ -11,16 +11,16 @@ Tables:
 address			text
 city			text
 first_name		text
-id			bigint
+id			    bigint
 last_name		text
-phone_number		text
+phone_number	text
 
 <orders>
 cust_id			bigint
-id			bigint
+id			    bigint
 order_date		date
-order_details		text
-total_order_cost	bigint
+order_details	text
+total_order_costbigint
 */
 
 WITH cust_daily_totals AS (
