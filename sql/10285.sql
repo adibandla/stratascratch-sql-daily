@@ -8,8 +8,8 @@ Difficulty: Medium
 
 Tables:
 <fb_friend_requests>
-action			text
-date			date
+action			    text
+date			    date
 user_id_receiver	text
 user_id_sender		text
 */
