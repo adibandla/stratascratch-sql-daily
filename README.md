@@ -1,7 +1,7 @@
 # SQL Prep
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `18`
+## Completed Questions: `19`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9915.sql)
@@ -22,3 +22,4 @@ This repository contains my solutions to questions attempted on StrataScratch to
 |9782|[Customer Revenue In March](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9782.sql)
 |9894|[Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9894.sql)
 |9897|[Highest Salary In Department](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9897.sql)
+|9899|[Proportion Of Total Spend](https://platform.stratascratch.com/coding/9899-percentage-of-total-spend?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9899.sql)
