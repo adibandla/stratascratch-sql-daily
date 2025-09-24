@@ -1,7 +1,7 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `24`
+## Completed Questions: `25`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9915.sql)
@@ -28,3 +28,4 @@ This repository contains my solutions to questions attempted on StrataScratch to
 |10048|[Top Businesses With Most Reviews](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10048.sql)
 |2059|[Player with Longest Streak](https://platform.stratascratch.com/coding/2059-player-with-longest-streak?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2059.sql)
 |10049|[Reviews of Categories](https://platform.stratascratch.com/coding/10049-reviews-of-categories?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10049.sql)
+|10060|[Top Cool Votes](https://platform.stratascratch.com/coding/10060-top-cool-votes?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10060.sql)
