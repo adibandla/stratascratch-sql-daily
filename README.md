@@ -1,7 +1,7 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `29`
+## Completed Questions: `30`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |10062|[Fans vs Opposition](https://platform.stratascratch.com/coding/10062-fans-vs-opposition?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10062.sql)
