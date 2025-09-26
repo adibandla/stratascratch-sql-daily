@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `27`
+## Completed Questions: `28`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|2112|[Product Market Share](https://platform.stratascratch.com/coding/2112-product-market-share?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2112.sql)
 |10077|[Income By Title and Gender](https://platform.stratascratch.com/coding/10077-income-by-title-and-gender?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10077.sql)
 |2053|[Retention Rate](https://platform.stratascratch.com/coding/2053-retention-rate?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2053.sql)
 |9915|[Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9915.sql)
