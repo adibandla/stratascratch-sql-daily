@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `32`
+## Completed Questions: `33`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|10302|[Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10302.sql)
 |10297|[Comments Distribution](https://platform.stratascratch.com/coding/10297-comments-distribution?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10297.sql)
 |10284|[Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10284.sql)
 |10062|[Fans vs Opposition](https://platform.stratascratch.com/coding/10062-fans-vs-opposition?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10062.sql)
