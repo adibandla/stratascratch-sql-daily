@@ -4,6 +4,7 @@ This repository contains my solutions to questions attempted on StrataScratch to
 ## Completed Questions: `29`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|10062|[Fans vs Opposition](https://platform.stratascratch.com/coding/10062-fans-vs-opposition?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10062.sql)
 |10046|[Top 5 States With 5 Star Businesses](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10046.sql)
 |9637|[Growth of Airbnb](https://platform.stratascratch.com/coding/9637-growth-of-airbnb?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9637.sql)
 |2112|[Product Market Share](https://platform.stratascratch.com/coding/2112-product-market-share?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2112.sql)
