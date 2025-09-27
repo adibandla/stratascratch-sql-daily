@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `37`
+## Completed Questions: `38`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|2005|[Share of Active Users](https://platform.stratascratch.com/coding/2005-share-of-active-users?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2005.sql)
 |10303|[Top Percentile Fraud](https://platform.stratascratch.com/coding/10303-top-percentile-fraud?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10303.sql)
 |2038|[WFM Brand Segmentation based on Customer Activity](https://platform.stratascratch.com/coding/2038-wfm-brand-segmentation-based-on-customer-activity?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2038.sql)
 |2029|[Most Popular Client For Calls](https://platform.stratascratch.com/coding/2029-the-most-popular-client_id-among-users-using-video-and-voice-calls?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2029.sql)
