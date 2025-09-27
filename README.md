@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `33`
+## Completed Questions: `34`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|10078|[Matching Similar Hosts and Guests](https://platform.stratascratch.com/coding/10078-find-matching-hosts-and-guests-in-a-way-that-they-are-both-of-the-same-gender-and-nationality?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10078.sql)
 |10302|[Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10302.sql)
 |10297|[Comments Distribution](https://platform.stratascratch.com/coding/10297-comments-distribution?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10297.sql)
 |10284|[Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10284.sql)
