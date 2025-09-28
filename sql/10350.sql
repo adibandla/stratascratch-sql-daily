@@ -21,22 +21,12 @@ search_results_position		bigint
 search_term					text
 */
 
-WITH
-  unclicked_ratings AS (
-    SELECT
-      search_id,
-      CASE WHEN SUM(clicked) = 0 THEN 1 ELSE 0 END AS rating
-    FROM fb_search_events
-    GROUP BY search_id
-  ),
-  clicked_ratings AS (
-    SELECT
-      search_id,
-      CASE WHEN MIN(search_results_position) > 3 THEN 2 ELSE 3 END AS rating
-    FROM fb_search_events
-    WHERE clicked = 1
-    GROUP BY search_id
-  )
-SELECT * FROM unclicked_ratings WHERE rating = 1
-UNION ALL
-SELECT * FROM clicked_ratings;
+SELECT
+  search_id,
+  CASE
+    WHEN SUM(CASE WHEN clicked = 1 THEN 1 ELSE 0 END) = 0 THEN 1
+    WHEN MIN(CASE WHEN clicked = 1 THEN search_results_position END) > 3 THEN 2
+    ELSE 3
+  END AS rating
+FROM fb_search_events
+GROUP BY search_id;
