@@ -4,7 +4,7 @@ This repository contains my solutions to questions attempted on StrataScratch to
 ## Completed Questions: `48`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
-|10324|[Distances Travelled](https://platform.stratascratch.com/coding/10324-distances-traveled?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10324.sql)
+|10324|[Distances Travelled](https://platform.stratascratch.com/coding/10324-distances-traveled?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10324.sql)
 |10358|[Friday Purchases](https://platform.stratascratch.com/coding/10358-friday-purchases?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10358.sql)
 |2028|[New and Existing Users](https://platform.stratascratch.com/coding/2028-new-and-existing-users?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2028.sql)
 |10369|[Penetration Analysis](https://platform.stratascratch.com/coding/10369-spotify-penetration-analysis?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10369.sql)
