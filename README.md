@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `42`
+## Completed Questions: `43`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|10301|[Expensive Projects](https://platform.stratascratch.com/coding/10301-expensive-projects?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10301.sql)
 |10295|[Most Active Users on Messenger](https://platform.stratascratch.com/coding/10295-most-active-users-on-messenger?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10295.sql)
 |10291|[SMS Confirmations From Users](https://platform.stratascratch.com/coding/10291-sms-confirmations-from-users?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10291.sql)
 |10159|[Ranking Most Active Guests](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10159.sql)
