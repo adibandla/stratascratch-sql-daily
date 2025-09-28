@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `45`
+## Completed Questions: `46`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|2028|[New and Existing Users](https://platform.stratascratch.com/coding/2028-new-and-existing-users?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2028.sql)
 |10369|[Penetration Analysis](https://platform.stratascratch.com/coding/10369-spotify-penetration-analysis?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10369.sql)
 |10350|[Algorithm Performance](https://platform.stratascratch.com/coding/10350-algorithm-performance?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10350.sql)
 |10301|[Expensive Projects](https://platform.stratascratch.com/coding/10301-expensive-projects?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10301.sql)
