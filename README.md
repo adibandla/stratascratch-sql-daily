@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `48`
+## Completed Questions: `49`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|10090|[Find the percentage of shipable orders](https://platform.stratascratch.com/coding/10090-find-the-percentage-of-shipable-orders?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10090.sql)
 |10324|[Distances Travelled](https://platform.stratascratch.com/coding/10324-distances-traveled?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10324.sql)
 |10358|[Friday Purchases](https://platform.stratascratch.com/coding/10358-friday-purchases?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10358.sql)
 |2028|[New and Existing Users](https://platform.stratascratch.com/coding/2028-new-and-existing-users?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2028.sql)
