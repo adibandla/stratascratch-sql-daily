@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `53`
+## Completed Questions: `54`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|9632|[Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9632.sql)
 |2089|[Cookbook Recipes](https://platform.stratascratch.com/coding/2089-cookbook-recipes?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2089.sql)
 |2099|[Election Results](https://platform.stratascratch.com/coding/2099-election-results?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2099.sql)
 |2097|[Premium Accounts](https://platform.stratascratch.com/coding/2097-premium-acounts?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2097.sql)
