@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `56`
+## Completed Questions: `57`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|2119|[Most Lucrative Products](https://platform.stratascratch.com/coding/2119-most-lucrative-products?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2119.sql)
 |2113|[Extremely Late Delivery](https://platform.stratascratch.com/coding/2113-extremely-late-delivery?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2113.sql)
 |2104|[User with Most Approved Flags](https://platform.stratascratch.com/coding/2104-user-with-most-approved-flags?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2104.sql)
 |2102|[Flags per Video](https://platform.stratascratch.com/coding/2102-flags-per-video?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2102.sql)
