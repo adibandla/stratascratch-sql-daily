@@ -1,7 +1,7 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `6`
+## Completed Questions: `63`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |2103|[Reviewed flags of top videos](https://platform.stratascratch.com/coding/2103-reviewed-flags-of-top-videos?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2103.sql)
