@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `61`
+## Completed Questions: `6`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|2131|[User Streaks](https://platform.stratascratch.com/coding/2131-user-streaks?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2131.sql)
 |10171|[Find the genre of the person with the most number of oscar winnings](https://platform.stratascratch.com/coding/10171-find-the-genre-of-the-person-with-the-most-number-of-oscar-winnings?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10171.sql)
 |10547|[Actor Rating Difference Analysis](https://platform.stratascratch.com/coding/10547-actor-rating-difference-analysis?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/10547.sql)
 |2136|[Customer Tracking](https://platform.stratascratch.com/coding/2136-customer-tracking?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2136.sql)
