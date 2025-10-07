@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `67`
+## Completed Questions: `68`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|2082|[Minimum Number of Platforms](https://platform.stratascratch.com/coding/2082-minimum-number-of-platforms?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2082.sql)
 |2033|[Find The Most Profitable Location](https://platform.stratascratch.com/coding/2033-find-the-most-profitable-location?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2033.sql)
 |2120|[First and Last Day Promotion Results](https://platform.stratascratch.com/coding/2120-first-and-last-day?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2120.sql)
 |2134|[Completed Trip within 168 Hours](https://platform.stratascratch.com/coding/2134-completed-trip-within-168-hours?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2134.sql)
