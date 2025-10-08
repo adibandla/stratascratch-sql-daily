@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `69`
+## Completed Questions: `70`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|2087|[Negative Reviews in New Locations](https://platform.stratascratch.com/coding/2087-negative-reviews-in-new-locations?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2087.sql)
 |9739|[Worst Businesses](https://platform.stratascratch.com/coding/9739-worst-businesses?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9739.sql)
 |2082|[Minimum Number of Platforms](https://platform.stratascratch.com/coding/2082-minimum-number-of-platforms?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2082.sql)
 |2033|[Find The Most Profitable Location](https://platform.stratascratch.com/coding/2033-find-the-most-profitable-location?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2033.sql)
