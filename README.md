@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `72`
+## Completed Questions: `73`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|2101|[More Than 100 Dollars](https://platform.stratascratch.com/coding/2101-maximum-of-two-numbers?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2101.sql)
 |2115|[More Than 100 Dollars](https://platform.stratascratch.com/coding/2115-more-than-100-dollars?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2115.sql)
 |9763|[Most Popular Room Types](https://platform.stratascratch.com/coding/9763-most-popular-room-types?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9763.sql)
 |2087|[Negative Reviews in New Locations](https://platform.stratascratch.com/coding/2087-negative-reviews-in-new-locations?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2087.sql)
