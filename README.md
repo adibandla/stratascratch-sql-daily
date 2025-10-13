@@ -1,9 +1,10 @@
 # SQL Analytics
 This repository contains my solutions to questions attempted on StrataScratch to demonstrate my SQL skills to solve business problem statements.
 
-## Completed Questions: `74`
+## Completed Questions: `75`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|9668|[English, German, French, Spanish Speakers](https://platform.stratascratch.com/coding/9668-english-german-french-spanish-speakers?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/9668.sql)
 |2079|[City With Most Customers](https://platform.stratascratch.com/coding/2079-city-with-most-customers?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2079.sql)
 |2101|[Maximum of Two Numbers](https://platform.stratascratch.com/coding/2101-maximum-of-two-numbers?code_type=1)|Medium|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2101.sql)
 |2115|[More Than 100 Dollars](https://platform.stratascratch.com/coding/2115-more-than-100-dollars?code_type=1)|Hard|[Link](https://github.com/adibandla/stratascratch-sql-daily/blob/main/sql/2115.sql)
